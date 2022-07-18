@@ -1,0 +1,4010 @@
+{
+    "meta": {
+      "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+      "terms": "https://open.fda.gov/terms/",
+      "license": "https://open.fda.gov/license/",
+      "last_updated": "2022-05-11"
+    },
+    "results": [
+      {
+        "term": "Hand Sanitizer",
+        "count": 1164
+      },
+      {
+        "term": "Ibuprofen",
+        "count": 471
+      },
+      {
+        "term": "Oxygen",
+        "count": 435
+      },
+      {
+        "term": "Gabapentin",
+        "count": 289
+      },
+      {
+        "term": "Allergy Relief",
+        "count": 241
+      },
+      {
+        "term": "Amoxicillin",
+        "count": 184
+      },
+      {
+        "term": "Dove",
+        "count": 159
+      },
+      {
+        "term": "Methocarbamol",
+        "count": 154
+      },
+      {
+        "term": "Omeprazole",
+        "count": 153
+      },
+      {
+        "term": "Ciprofloxacin",
+        "count": 145
+      },
+      {
+        "term": "Prednisone",
+        "count": 145
+      },
+      {
+        "term": "Acetaminophen",
+        "count": 142
+      },
+      {
+        "term": "Losartan Potassium",
+        "count": 141
+      },
+      {
+        "term": "Salicylic Acid",
+        "count": 141
+      },
+      {
+        "term": "Famotidine",
+        "count": 139
+      },
+      {
+        "term": "Hydrocodone Bitartrate and Acetaminophen",
+        "count": 135
+      },
+      {
+        "term": "Buspirone Hydrochloride",
+        "count": 133
+      },
+      {
+        "term": "Hydrochlorothiazide",
+        "count": 132
+      },
+      {
+        "term": "HAND SANITIZER",
+        "count": 130
+      },
+      {
+        "term": "Metformin Hydrochloride",
+        "count": 126
+      },
+      {
+        "term": "Amoxicillin and Clavulanate Potassium",
+        "count": 125
+      },
+      {
+        "term": "Cyclobenzaprine Hydrochloride",
+        "count": 125
+      },
+      {
+        "term": "Potassium Chloride",
+        "count": 125
+      },
+      {
+        "term": "Acyclovir",
+        "count": 124
+      },
+      {
+        "term": "Naproxen Sodium",
+        "count": 124
+      },
+      {
+        "term": "Metoprolol Tartrate",
+        "count": 123
+      },
+      {
+        "term": "Furosemide",
+        "count": 122
+      },
+      {
+        "term": "Degree",
+        "count": 121
+      },
+      {
+        "term": "Fluoxetine",
+        "count": 121
+      },
+      {
+        "term": "Metronidazole",
+        "count": 120
+      },
+      {
+        "term": "Naproxen",
+        "count": 119
+      },
+      {
+        "term": "Azithromycin",
+        "count": 118
+      },
+      {
+        "term": "Lidocaine",
+        "count": 118
+      },
+      {
+        "term": "Diclofenac Sodium",
+        "count": 114
+      },
+      {
+        "term": "Levofloxacin",
+        "count": 113
+      },
+      {
+        "term": "Ondansetron",
+        "count": 113
+      },
+      {
+        "term": "Pregabalin",
+        "count": 113
+      },
+      {
+        "term": "Doxycycline Hyclate",
+        "count": 111
+      },
+      {
+        "term": "Levetiracetam",
+        "count": 111
+      },
+      {
+        "term": "Alprazolam",
+        "count": 108
+      },
+      {
+        "term": "ATORVASTATIN CALCIUM",
+        "count": 107
+      },
+      {
+        "term": "Fenofibrate",
+        "count": 107
+      },
+      {
+        "term": "Glipizide",
+        "count": 107
+      },
+      {
+        "term": "Lorazepam",
+        "count": 107
+      },
+      {
+        "term": "Lisinopril",
+        "count": 105
+      },
+      {
+        "term": "Baclofen",
+        "count": 104
+      },
+      {
+        "term": "Carvedilol",
+        "count": 104
+      },
+      {
+        "term": "Cephalexin",
+        "count": 103
+      },
+      {
+        "term": "Atenolol",
+        "count": 102
+      },
+      {
+        "term": "Nitrogen",
+        "count": 102
+      },
+      {
+        "term": "Sildenafil",
+        "count": 102
+      },
+      {
+        "term": "Hydrocortisone",
+        "count": 99
+      },
+      {
+        "term": "Levothyroxine Sodium",
+        "count": 98
+      },
+      {
+        "term": "Trazodone Hydrochloride",
+        "count": 98
+      },
+      {
+        "term": "Atorvastatin Calcium",
+        "count": 97
+      },
+      {
+        "term": "Pantoprazole Sodium",
+        "count": 96
+      },
+      {
+        "term": "Stool Softener Laxative",
+        "count": 96
+      },
+      {
+        "term": "Tadalafil",
+        "count": 96
+      },
+      {
+        "term": "Allopurinol",
+        "count": 94
+      },
+      {
+        "term": "OXYGEN",
+        "count": 93
+      },
+      {
+        "term": "Phentermine Hydrochloride",
+        "count": 93
+      },
+      {
+        "term": "Aripiprazole",
+        "count": 92
+      },
+      {
+        "term": "Clobetasol Propionate",
+        "count": 92
+      },
+      {
+        "term": "Fluconazole",
+        "count": 92
+      },
+      {
+        "term": "Diazepam",
+        "count": 91
+      },
+      {
+        "term": "Antibacterial Wipes",
+        "count": 90
+      },
+      {
+        "term": "Lamotrigine",
+        "count": 90
+      },
+      {
+        "term": "Warfarin Sodium",
+        "count": 90
+      },
+      {
+        "term": "Aspirin",
+        "count": 89
+      },
+      {
+        "term": "Lidocaine Hydrochloride",
+        "count": 89
+      },
+      {
+        "term": "Nicotine",
+        "count": 89
+      },
+      {
+        "term": "Propranolol Hydrochloride",
+        "count": 88
+      },
+      {
+        "term": "Sunscreen",
+        "count": 88
+      },
+      {
+        "term": "GABAPENTIN",
+        "count": 87
+      },
+      {
+        "term": "Topiramate",
+        "count": 87
+      },
+      {
+        "term": "Triamcinolone Acetonide",
+        "count": 87
+      },
+      {
+        "term": "Amlodipine Besylate",
+        "count": 84
+      },
+      {
+        "term": "Clonazepam",
+        "count": 84
+      },
+      {
+        "term": "Ketorolac Tromethamine",
+        "count": 83
+      },
+      {
+        "term": "Mirtazapine",
+        "count": 83
+      },
+      {
+        "term": "Venlafaxine Hydrochloride",
+        "count": 83
+      },
+      {
+        "term": "Cetirizine Hydrochloride",
+        "count": 82
+      },
+      {
+        "term": "Esomeprazole Magnesium",
+        "count": 81
+      },
+      {
+        "term": "Olanzapine",
+        "count": 81
+      },
+      {
+        "term": "Sulfamethoxazole and Trimethoprim",
+        "count": 80
+      },
+      {
+        "term": "Escitalopram",
+        "count": 78
+      },
+      {
+        "term": "Fluticasone Propionate",
+        "count": 78
+      },
+      {
+        "term": "LISINOPRIL",
+        "count": 78
+      },
+      {
+        "term": "Rosuvastatin Calcium",
+        "count": 77
+      },
+      {
+        "term": "Sertraline Hydrochloride",
+        "count": 76
+      },
+      {
+        "term": "Divalproex Sodium",
+        "count": 75
+      },
+      {
+        "term": "IBUPROFEN",
+        "count": 75
+      },
+      {
+        "term": "citroma",
+        "count": 75
+      },
+      {
+        "term": "Loratadine",
+        "count": 73
+      },
+      {
+        "term": "Bupropion Hydrochloride",
+        "count": 72
+      },
+      {
+        "term": "Paroxetine",
+        "count": 72
+      },
+      {
+        "term": "Promethazine Hydrochloride",
+        "count": 72
+      },
+      {
+        "term": "Benzonatate",
+        "count": 71
+      },
+      {
+        "term": "Metoprolol Succinate",
+        "count": 71
+      },
+      {
+        "term": "Dicyclomine Hydrochloride",
+        "count": 70
+      },
+      {
+        "term": "Indomethacin",
+        "count": 70
+      },
+      {
+        "term": "Lisinopril and Hydrochlorothiazide",
+        "count": 70
+      },
+      {
+        "term": "Stool Softener",
+        "count": 70
+      },
+      {
+        "term": "Benazepril Hydrochloride",
+        "count": 69
+      },
+      {
+        "term": "Isopropyl Alcohol",
+        "count": 69
+      },
+      {
+        "term": "Lansoprazole",
+        "count": 69
+      },
+      {
+        "term": "Losartan Potassium and Hydrochlorothiazide",
+        "count": 69
+      },
+      {
+        "term": "Nystatin",
+        "count": 68
+      },
+      {
+        "term": "Doxycycline",
+        "count": 67
+      },
+      {
+        "term": "Oxycodone and Acetaminophen",
+        "count": 66
+      },
+      {
+        "term": "Cefdinir",
+        "count": 65
+      },
+      {
+        "term": "Oxycodone Hydrochloride",
+        "count": 65
+      },
+      {
+        "term": "PRAVASTATIN SODIUM",
+        "count": 65
+      },
+      {
+        "term": "Sleep Aid",
+        "count": 65
+      },
+      {
+        "term": "Sodium Chloride",
+        "count": 65
+      },
+      {
+        "term": "Duloxetine",
+        "count": 63
+      },
+      {
+        "term": "Finasteride",
+        "count": 63
+      },
+      {
+        "term": "Glycopyrrolate",
+        "count": 63
+      },
+      {
+        "term": "Nabumetone",
+        "count": 63
+      },
+      {
+        "term": "Tolnaftate",
+        "count": 63
+      },
+      {
+        "term": "Antispetic",
+        "count": 62
+      },
+      {
+        "term": "Glimepiride",
+        "count": 62
+      },
+      {
+        "term": "Metaxalone",
+        "count": 62
+      },
+      {
+        "term": "Penicillin V Potassium",
+        "count": 62
+      },
+      {
+        "term": "TRAMADOL HYDROCHLORIDE",
+        "count": 62
+      },
+      {
+        "term": "Tizanidine",
+        "count": 62
+      },
+      {
+        "term": "Antibacterial Hand Sanitizer",
+        "count": 61
+      },
+      {
+        "term": "Diphenhydramine Hydrochloride",
+        "count": 61
+      },
+      {
+        "term": "Hydrogen Peroxide",
+        "count": 61
+      },
+      {
+        "term": "Hydroxyzine Hydrochloride",
+        "count": 61
+      },
+      {
+        "term": "Lovastatin",
+        "count": 61
+      },
+      {
+        "term": "METFORMIN HYDROCHLORIDE",
+        "count": 61
+      },
+      {
+        "term": "Triamterene and Hydrochlorothiazide",
+        "count": 61
+      },
+      {
+        "term": "Diltiazem Hydrochloride",
+        "count": 60
+      },
+      {
+        "term": "Etodolac",
+        "count": 60
+      },
+      {
+        "term": "Quetiapine Fumarate",
+        "count": 60
+      },
+      {
+        "term": "Spironolactone",
+        "count": 60
+      },
+      {
+        "term": "Doxepin Hydrochloride",
+        "count": 59
+      },
+      {
+        "term": "PREDNISONE",
+        "count": 59
+      },
+      {
+        "term": "Levothyroxine sodium",
+        "count": 58
+      },
+      {
+        "term": "Nifedipine",
+        "count": 58
+      },
+      {
+        "term": "Phenobarbital",
+        "count": 58
+      },
+      {
+        "term": "Triple Antibiotic",
+        "count": 58
+      },
+      {
+        "term": "Clotrimazole",
+        "count": 57
+      },
+      {
+        "term": "Fluocinonide",
+        "count": 57
+      },
+      {
+        "term": "Memantine Hydrochloride",
+        "count": 57
+      },
+      {
+        "term": "AMITRIPTYLINE HYDROCHLORIDE",
+        "count": 56
+      },
+      {
+        "term": "Cream",
+        "count": 56
+      },
+      {
+        "term": "Hydralazine Hydrochloride",
+        "count": 56
+      },
+      {
+        "term": "Ondansetron Hydrochloride",
+        "count": 56
+      },
+      {
+        "term": "ibuprofen",
+        "count": 56
+      },
+      {
+        "term": "Anticavity",
+        "count": 55
+      },
+      {
+        "term": "Miconazole Nitrate",
+        "count": 55
+      },
+      {
+        "term": "Minocycline Hydrochloride",
+        "count": 55
+      },
+      {
+        "term": "Celecoxib",
+        "count": 54
+      },
+      {
+        "term": "Labetalol Hydrochloride",
+        "count": 54
+      },
+      {
+        "term": "Morphine Sulfate",
+        "count": 54
+      },
+      {
+        "term": "Advanced Hand Sanitizer",
+        "count": 53
+      },
+      {
+        "term": "Instant Hand Sanitizer",
+        "count": 53
+      },
+      {
+        "term": "Phenazopyridine Hydrochloride",
+        "count": 53
+      },
+      {
+        "term": "acyclovir",
+        "count": 53
+      },
+      {
+        "term": "Amitriptyline Hydrochloride",
+        "count": 52
+      },
+      {
+        "term": "Haloperidol",
+        "count": 52
+      },
+      {
+        "term": "Oxybutynin Chloride",
+        "count": 52
+      },
+      {
+        "term": "levothyroxine sodium",
+        "count": 52
+      },
+      {
+        "term": "Alcohol",
+        "count": 50
+      },
+      {
+        "term": "Estradiol",
+        "count": 50
+      },
+      {
+        "term": "Epsom Salt",
+        "count": 49
+      },
+      {
+        "term": "Headache Relief Extra Strength",
+        "count": 49
+      },
+      {
+        "term": "Tamsulosin Hydrochloride",
+        "count": 49
+      },
+      {
+        "term": "Tobramycin",
+        "count": 49
+      },
+      {
+        "term": "Witch Hazel",
+        "count": 49
+      },
+      {
+        "term": "meloxicam",
+        "count": 49
+      },
+      {
+        "term": "CYCLOBENZAPRINE HYDROCHLORIDE",
+        "count": 48
+      },
+      {
+        "term": "Chlorthalidone",
+        "count": 48
+      },
+      {
+        "term": "Citalopram Hydrobromide",
+        "count": 48
+      },
+      {
+        "term": "Gas Relief Extra Strength",
+        "count": 48
+      },
+      {
+        "term": "Methylphenidate Hydrochloride",
+        "count": 48
+      },
+      {
+        "term": "PREGABALIN",
+        "count": 48
+      },
+      {
+        "term": "Prazosin Hydrochloride",
+        "count": 48
+      },
+      {
+        "term": "ciprofloxacin",
+        "count": 48
+      },
+      {
+        "term": "Loperamide Hydrochloride",
+        "count": 47
+      },
+      {
+        "term": "Anti-Diarrheal",
+        "count": 46
+      },
+      {
+        "term": "Betamethasone Dipropionate",
+        "count": 46
+      },
+      {
+        "term": "Clarithromycin",
+        "count": 46
+      },
+      {
+        "term": "Eszopiclone",
+        "count": 46
+      },
+      {
+        "term": "Hand Wash",
+        "count": 46
+      },
+      {
+        "term": "Meclizine Hydrochloride",
+        "count": 46
+      },
+      {
+        "term": "Nortriptyline Hydrochloride",
+        "count": 46
+      },
+      {
+        "term": "nicotine",
+        "count": 46
+      },
+      {
+        "term": "Citalopram",
+        "count": 45
+      },
+      {
+        "term": "Clindamycin Hydrochloride",
+        "count": 45
+      },
+      {
+        "term": "Clonidine Hydrochloride",
+        "count": 45
+      },
+      {
+        "term": "Enalapril Maleate",
+        "count": 45
+      },
+      {
+        "term": "Heparin Sodium",
+        "count": 45
+      },
+      {
+        "term": "Lithium Carbonate",
+        "count": 45
+      },
+      {
+        "term": "clonidine hydrochloride",
+        "count": 45
+      },
+      {
+        "term": "Axe",
+        "count": 44
+      },
+      {
+        "term": "Dexamethasone Sodium Phosphate",
+        "count": 44
+      },
+      {
+        "term": "Doxazosin",
+        "count": 44
+      },
+      {
+        "term": "Valsartan and Hydrochlorothiazide",
+        "count": 44
+      },
+      {
+        "term": "ZOLPIDEM TARTRATE",
+        "count": 44
+      },
+      {
+        "term": "Carbamazepine",
+        "count": 43
+      },
+      {
+        "term": "Carisoprodol",
+        "count": 43
+      },
+      {
+        "term": "Ramipril",
+        "count": 43
+      },
+      {
+        "term": "topiramate",
+        "count": 43
+      },
+      {
+        "term": "Metoclopramide",
+        "count": 42
+      },
+      {
+        "term": "Nighttime Sleep Aid",
+        "count": 42
+      },
+      {
+        "term": "Simvastatin",
+        "count": 42
+      },
+      {
+        "term": "Montelukast Sodium",
+        "count": 41
+      },
+      {
+        "term": "Verapamil Hydrochloride",
+        "count": 41
+      },
+      {
+        "term": "Erythromycin",
+        "count": 40
+      },
+      {
+        "term": "Gemfibrozil",
+        "count": 40
+      },
+      {
+        "term": "Mucus Relief DM",
+        "count": 40
+      },
+      {
+        "term": "Ranitidine",
+        "count": 40
+      },
+      {
+        "term": "Zolpidem Tartrate",
+        "count": 40
+      },
+      {
+        "term": "ACETAMINOPHEN AND CODEINE PHOSPHATE",
+        "count": 39
+      },
+      {
+        "term": "Clindamycin Phosphate",
+        "count": 39
+      },
+      {
+        "term": "Magnesium Citrate",
+        "count": 39
+      },
+      {
+        "term": "Petroleum",
+        "count": 39
+      },
+      {
+        "term": "Pioglitazone",
+        "count": 39
+      },
+      {
+        "term": "Albuterol Sulfate",
+        "count": 38
+      },
+      {
+        "term": "Clopidogrel",
+        "count": 38
+      },
+      {
+        "term": "Dandruff",
+        "count": 38
+      },
+      {
+        "term": "Hydroxyzine Pamoate",
+        "count": 38
+      },
+      {
+        "term": "Suave",
+        "count": 38
+      },
+      {
+        "term": "Vancomycin Hydrochloride",
+        "count": 38
+      },
+      {
+        "term": "Acetaminophen and Codeine Phosphate",
+        "count": 37
+      },
+      {
+        "term": "Bupropion Hydrochloride SR",
+        "count": 37
+      },
+      {
+        "term": "Dexamethasone",
+        "count": 37
+      },
+      {
+        "term": "Diphenoxylate Hydrochloride and Atropine Sulfate",
+        "count": 37
+      },
+      {
+        "term": "PROMETHAZINE HYDROCHLORIDE",
+        "count": 37
+      },
+      {
+        "term": "Progesterone",
+        "count": 37
+      },
+      {
+        "term": "Tacrolimus",
+        "count": 37
+      },
+      {
+        "term": "Ursodiol",
+        "count": 37
+      },
+      {
+        "term": "Amiodarone Hydrochloride",
+        "count": 36
+      },
+      {
+        "term": "Bach Original Flower Remedies",
+        "count": 36
+      },
+      {
+        "term": "Mometasone Furoate",
+        "count": 36
+      },
+      {
+        "term": "Piperacillin and Tazobactam",
+        "count": 36
+      },
+      {
+        "term": "Stomach Relief Regular Strength",
+        "count": 36
+      },
+      {
+        "term": "Valsartan",
+        "count": 36
+      },
+      {
+        "term": "benzonatate",
+        "count": 36
+      },
+      {
+        "term": "simvastatin",
+        "count": 36
+      },
+      {
+        "term": "Antibacterial",
+        "count": 35
+      },
+      {
+        "term": "Antiseptic",
+        "count": 35
+      },
+      {
+        "term": "NITROGEN",
+        "count": 35
+      },
+      {
+        "term": "POTASSIUM CHLORIDE",
+        "count": 35
+      },
+      {
+        "term": "Rizatriptan Benzoate",
+        "count": 35
+      },
+      {
+        "term": "SERTRALINE HYDROCHLORIDE",
+        "count": 35
+      },
+      {
+        "term": "Sucralfate",
+        "count": 35
+      },
+      {
+        "term": "Sumatriptan",
+        "count": 35
+      },
+      {
+        "term": "hydroxyzine pamoate",
+        "count": 35
+      },
+      {
+        "term": "ACETAMINOPHEN",
+        "count": 34
+      },
+      {
+        "term": "Air",
+        "count": 34
+      },
+      {
+        "term": "Diclofenac Sodium Delayed Release",
+        "count": 34
+      },
+      {
+        "term": "Mucus Relief",
+        "count": 34
+      },
+      {
+        "term": "Acetazolamide",
+        "count": 33
+      },
+      {
+        "term": "Ampicillin",
+        "count": 33
+      },
+      {
+        "term": "Aspirin Low Dose",
+        "count": 33
+      },
+      {
+        "term": "Bumetanide",
+        "count": 33
+      },
+      {
+        "term": "Cefadroxil",
+        "count": 33
+      },
+      {
+        "term": "Digoxin",
+        "count": 33
+      },
+      {
+        "term": "Glyburide",
+        "count": 33
+      },
+      {
+        "term": "Meloxicam",
+        "count": 33
+      },
+      {
+        "term": "Ofloxacin",
+        "count": 33
+      },
+      {
+        "term": "Valacyclovir Hydrochloride",
+        "count": 33
+      },
+      {
+        "term": "AMLODIPINE BESYLATE",
+        "count": 32
+      },
+      {
+        "term": "Ketoconazole",
+        "count": 32
+      },
+      {
+        "term": "Naloxone Hydrochloride",
+        "count": 32
+      },
+      {
+        "term": "Nitrous Oxide",
+        "count": 32
+      },
+      {
+        "term": "Quetiapine",
+        "count": 32
+      },
+      {
+        "term": "allergy relief",
+        "count": 32
+      },
+      {
+        "term": "Antiseptic Mouth Rinse",
+        "count": 31
+      },
+      {
+        "term": "Atropine Sulfate",
+        "count": 31
+      },
+      {
+        "term": "ENALAPRIL MALEATE",
+        "count": 31
+      },
+      {
+        "term": "ESZOPICLONE",
+        "count": 31
+      },
+      {
+        "term": "Fexofenadine Hydrochloride",
+        "count": 31
+      },
+      {
+        "term": "Folic Acid",
+        "count": 31
+      },
+      {
+        "term": "Irbesartan",
+        "count": 31
+      },
+      {
+        "term": "OLOPATADINE HYDROCHLORIDE",
+        "count": 31
+      },
+      {
+        "term": "PredniSONE",
+        "count": 31
+      },
+      {
+        "term": "Risperidone",
+        "count": 31
+      },
+      {
+        "term": "Sodium Bicarbonate",
+        "count": 31
+      },
+      {
+        "term": "Terbinafine Hydrochloride",
+        "count": 31
+      },
+      {
+        "term": "Tramadol Hydrochloride",
+        "count": 31
+      },
+      {
+        "term": "Docusate Sodium",
+        "count": 30
+      },
+      {
+        "term": "Hand Sanitizer Gel",
+        "count": 30
+      },
+      {
+        "term": "MECLIZINE HYDROCHLORIDE",
+        "count": 30
+      },
+      {
+        "term": "Mesalamine",
+        "count": 30
+      },
+      {
+        "term": "Metformin hydrochloride",
+        "count": 30
+      },
+      {
+        "term": "Metoprolol succinate",
+        "count": 30
+      },
+      {
+        "term": "Modafinil",
+        "count": 30
+      },
+      {
+        "term": "ONDANSETRON",
+        "count": 30
+      },
+      {
+        "term": "ACYCLOVIR",
+        "count": 29
+      },
+      {
+        "term": "CELECOXIB",
+        "count": 29
+      },
+      {
+        "term": "Dextrose",
+        "count": 29
+      },
+      {
+        "term": "Diclofenac Potassium",
+        "count": 29
+      },
+      {
+        "term": "Diclofenac sodium",
+        "count": 29
+      },
+      {
+        "term": "Hydroxychloroquine Sulfate",
+        "count": 29
+      },
+      {
+        "term": "Medroxyprogesterone Acetate",
+        "count": 29
+      },
+      {
+        "term": "Nicotine Polacrilex",
+        "count": 29
+      },
+      {
+        "term": "Oseltamivir Phosphate",
+        "count": 29
+      },
+      {
+        "term": "temazepam",
+        "count": 29
+      },
+      {
+        "term": "Acid Reducer",
+        "count": 28
+      },
+      {
+        "term": "BUPROPION HYDROCHLORIDE",
+        "count": 28
+      },
+      {
+        "term": "Donepezil Hydrochloride",
+        "count": 28
+      },
+      {
+        "term": "Gentamicin Sulfate",
+        "count": 28
+      },
+      {
+        "term": "Methadone Hydrochloride",
+        "count": 28
+      },
+      {
+        "term": "Nitrofurantoin (monohydrate/macrocrystals)",
+        "count": 28
+      },
+      {
+        "term": "Propafenone Hydrochloride",
+        "count": 28
+      },
+      {
+        "term": "Succinylcholine Chloride",
+        "count": 28
+      },
+      {
+        "term": "VERAPAMIL HYDROCHLORIDE",
+        "count": 28
+      },
+      {
+        "term": "metoprolol succinate",
+        "count": 28
+      },
+      {
+        "term": "Banana Boat",
+        "count": 27
+      },
+      {
+        "term": "CLINDAMYCIN HYDROCHLORIDE",
+        "count": 27
+      },
+      {
+        "term": "Calamine",
+        "count": 27
+      },
+      {
+        "term": "Docetaxel",
+        "count": 27
+      },
+      {
+        "term": "Gas Relief",
+        "count": 27
+      },
+      {
+        "term": "Gas Relief Ultra Strength",
+        "count": 27
+      },
+      {
+        "term": "Methotrexate",
+        "count": 27
+      },
+      {
+        "term": "Midodrine Hydrochloride",
+        "count": 27
+      },
+      {
+        "term": "NAPROXEN",
+        "count": 27
+      },
+      {
+        "term": "Pain Relief Extra Strength",
+        "count": 27
+      },
+      {
+        "term": "RISPERIDONE",
+        "count": 27
+      },
+      {
+        "term": "Rosuvastatin calcium",
+        "count": 27
+      },
+      {
+        "term": "Sterile Water",
+        "count": 27
+      },
+      {
+        "term": "basic care nicotine",
+        "count": 27
+      },
+      {
+        "term": "instant hand sanitizer",
+        "count": 27
+      },
+      {
+        "term": "venlafaxine hydrochloride",
+        "count": 27
+      },
+      {
+        "term": "AMOXICILLIN AND CLAVULANATE POTASSIUM",
+        "count": 26
+      },
+      {
+        "term": "Anastrozole",
+        "count": 26
+      },
+      {
+        "term": "Bacitracin",
+        "count": 26
+      },
+      {
+        "term": "Budesonide",
+        "count": 26
+      },
+      {
+        "term": "Carbon Dioxide",
+        "count": 26
+      },
+      {
+        "term": "Clobazam",
+        "count": 26
+      },
+      {
+        "term": "DICLOFENAC SODIUM",
+        "count": 26
+      },
+      {
+        "term": "Daptomycin",
+        "count": 26
+      },
+      {
+        "term": "Desoximetasone",
+        "count": 26
+      },
+      {
+        "term": "Desvenlafaxine",
+        "count": 26
+      },
+      {
+        "term": "Diltiazem Hydrochloride Extended-Release",
+        "count": 26
+      },
+      {
+        "term": "Ezetimibe",
+        "count": 26
+      },
+      {
+        "term": "FENOFIBRATE",
+        "count": 26
+      },
+      {
+        "term": "Hydroxyzine hydrochloride",
+        "count": 26
+      },
+      {
+        "term": "Methylprednisolone",
+        "count": 26
+      },
+      {
+        "term": "Motion Sickness Relief",
+        "count": 26
+      },
+      {
+        "term": "Solifenacin Succinate",
+        "count": 26
+      },
+      {
+        "term": "Titanium Dioxide",
+        "count": 26
+      },
+      {
+        "term": "Tranexamic Acid",
+        "count": 26
+      },
+      {
+        "term": "tramadol hydrochloride",
+        "count": 26
+      },
+      {
+        "term": "venlafaxine",
+        "count": 26
+      },
+      {
+        "term": "Antiseptic Skin Cleanser",
+        "count": 25
+      },
+      {
+        "term": "Benztropine Mesylate",
+        "count": 25
+      },
+      {
+        "term": "CARBAMAZEPINE",
+        "count": 25
+      },
+      {
+        "term": "Calcitriol",
+        "count": 25
+      },
+      {
+        "term": "Carbidopa and Levodopa",
+        "count": 25
+      },
+      {
+        "term": "Ceftriaxone Sodium",
+        "count": 25
+      },
+      {
+        "term": "Childrens Allergy",
+        "count": 25
+      },
+      {
+        "term": "Colchicine",
+        "count": 25
+      },
+      {
+        "term": "Desmopressin Acetate",
+        "count": 25
+      },
+      {
+        "term": "Epinephrine",
+        "count": 25
+      },
+      {
+        "term": "Ergocalciferol",
+        "count": 25
+      },
+      {
+        "term": "Felodipine",
+        "count": 25
+      },
+      {
+        "term": "Fexofenadine hydrochloride",
+        "count": 25
+      },
+      {
+        "term": "MILK OF MAGNESIA",
+        "count": 25
+      },
+      {
+        "term": "Megestrol Acetate",
+        "count": 25
+      },
+      {
+        "term": "Pramipexole Dihydrochloride",
+        "count": 25
+      },
+      {
+        "term": "Sleep Aid Nighttime",
+        "count": 25
+      },
+      {
+        "term": "Tretinoin",
+        "count": 25
+      },
+      {
+        "term": "metformin hydrochloride",
+        "count": 25
+      },
+      {
+        "term": "metronidazole",
+        "count": 25
+      },
+      {
+        "term": "ziprasidone hydrochloride",
+        "count": 25
+      },
+      {
+        "term": "Antibacterial Wet Wipes",
+        "count": 24
+      },
+      {
+        "term": "Anticavity Fluoride Rinse",
+        "count": 24
+      },
+      {
+        "term": "CLOBETASOL PROPIONATE",
+        "count": 24
+      },
+      {
+        "term": "Cefazolin",
+        "count": 24
+      },
+      {
+        "term": "Childrens Allergy Relief",
+        "count": 24
+      },
+      {
+        "term": "Chlorhexidine Gluconate",
+        "count": 24
+      },
+      {
+        "term": "Clindamycin hydrochloride",
+        "count": 24
+      },
+      {
+        "term": "Divalproex sodium",
+        "count": 24
+      },
+      {
+        "term": "Nystatin and Triamcinolone Acetonide",
+        "count": 24
+      },
+      {
+        "term": "OXYCODONE HYDROCHLORIDE",
+        "count": 24
+      },
+      {
+        "term": "Oxcarbazepine",
+        "count": 24
+      },
+      {
+        "term": "Perphenazine",
+        "count": 24
+      },
+      {
+        "term": "Stomach Relief",
+        "count": 24
+      },
+      {
+        "term": "Temazepam",
+        "count": 24
+      },
+      {
+        "term": "Triamcinolone acetonide",
+        "count": 24
+      },
+      {
+        "term": "levocetirizine dihydrochloride",
+        "count": 24
+      },
+      {
+        "term": "omeprazole",
+        "count": 24
+      },
+      {
+        "term": "Acetaminophen Extra Strength",
+        "count": 23
+      },
+      {
+        "term": "Azithromycin Dihydrate",
+        "count": 23
+      },
+      {
+        "term": "Bupropion Hydrochloride (XL)",
+        "count": 23
+      },
+      {
+        "term": "CARISOPRODOL",
+        "count": 23
+      },
+      {
+        "term": "Calcium Acetate",
+        "count": 23
+      },
+      {
+        "term": "ChloraPrep One-Step",
+        "count": 23
+      },
+      {
+        "term": "Chlorzoxazone",
+        "count": 23
+      },
+      {
+        "term": "Desonide",
+        "count": 23
+      },
+      {
+        "term": "Fosaprepitant",
+        "count": 23
+      },
+      {
+        "term": "GLYCOPYRROLATE",
+        "count": 23
+      },
+      {
+        "term": "Levocetirizine Dihydrochloride",
+        "count": 23
+      },
+      {
+        "term": "PANTOPRAZOLE SODIUM",
+        "count": 23
+      },
+      {
+        "term": "Phenytoin Sodium",
+        "count": 23
+      },
+      {
+        "term": "Sotalol Hydrochloride",
+        "count": 23
+      },
+      {
+        "term": "Tartar control plus",
+        "count": 23
+      },
+      {
+        "term": "Allergy",
+        "count": 22
+      },
+      {
+        "term": "Atorvastatin calcium",
+        "count": 22
+      },
+      {
+        "term": "Azelastine Hydrochloride",
+        "count": 22
+      },
+      {
+        "term": "Belladonna",
+        "count": 22
+      },
+      {
+        "term": "Clotrimazole and Betamethasone Dipropionate",
+        "count": 22
+      },
+      {
+        "term": "Docosanol",
+        "count": 22
+      },
+      {
+        "term": "Ecolab",
+        "count": 22
+      },
+      {
+        "term": "Fluorouracil",
+        "count": 22
+      },
+      {
+        "term": "Fluphenazine Hydrochloride",
+        "count": 22
+      },
+      {
+        "term": "Hand Sanitizer with Aloe",
+        "count": 22
+      },
+      {
+        "term": "Hand wash",
+        "count": 22
+      },
+      {
+        "term": "Moisturizing Antibacterial",
+        "count": 22
+      },
+      {
+        "term": "Pain Relief",
+        "count": 22
+      },
+      {
+        "term": "Raloxifene Hydrochloride",
+        "count": 22
+      },
+      {
+        "term": "Silver Sulfadiazine",
+        "count": 22
+      },
+      {
+        "term": "Stool Softener Plus Stimulant Laxative",
+        "count": 22
+      },
+      {
+        "term": "celecoxib",
+        "count": 22
+      },
+      {
+        "term": "Betamethasone Valerate",
+        "count": 21
+      },
+      {
+        "term": "Decitabine",
+        "count": 21
+      },
+      {
+        "term": "Honey Lemon Cough Drops",
+        "count": 21
+      },
+      {
+        "term": "Metformin HCl",
+        "count": 21
+      },
+      {
+        "term": "Methimazole",
+        "count": 21
+      },
+      {
+        "term": "Mycophenolate Mofetil",
+        "count": 21
+      },
+      {
+        "term": "Pain Reliever Extra Strength",
+        "count": 21
+      },
+      {
+        "term": "Senna S",
+        "count": 21
+      },
+      {
+        "term": "Ziprasidone Hydrochloride",
+        "count": 21
+      },
+      {
+        "term": "Adapalene",
+        "count": 20
+      },
+      {
+        "term": "Adenosine",
+        "count": 20
+      },
+      {
+        "term": "Amantadine Hydrochloride",
+        "count": 20
+      },
+      {
+        "term": "Amlodipine and Benazepril Hydrochloride",
+        "count": 20
+      },
+      {
+        "term": "Bupivacaine Hydrochloride",
+        "count": 20
+      },
+      {
+        "term": "Childrens Ibuprofen",
+        "count": 20
+      },
+      {
+        "term": "Daytime Nighttime Cold Flu Relief",
+        "count": 20
+      },
+      {
+        "term": "Duloxetine Delayed-Release",
+        "count": 20
+      },
+      {
+        "term": "Dutasteride",
+        "count": 20
+      },
+      {
+        "term": "Hawaiian Tropic",
+        "count": 20
+      },
+      {
+        "term": "Hydrocortisone Acetate",
+        "count": 20
+      },
+      {
+        "term": "Hydromorphone Hydrochloride",
+        "count": 20
+      },
+      {
+        "term": "IBU",
+        "count": 20
+      },
+      {
+        "term": "Irbesartan and Hydrochlorothiazide",
+        "count": 20
+      },
+      {
+        "term": "Isosorbide Mononitrate",
+        "count": 20
+      },
+      {
+        "term": "Miconazole 7",
+        "count": 20
+      },
+      {
+        "term": "Oxaliplatin",
+        "count": 20
+      },
+      {
+        "term": "Primidone",
+        "count": 20
+      },
+      {
+        "term": "Simethicone",
+        "count": 20
+      },
+      {
+        "term": "Terazosin",
+        "count": 20
+      },
+      {
+        "term": "Testosterone",
+        "count": 20
+      },
+      {
+        "term": "Tramadol Hydrochloride and Acetaminophen",
+        "count": 20
+      },
+      {
+        "term": "70%",
+        "count": 19
+      },
+      {
+        "term": "Alcohol Prep Pad",
+        "count": 19
+      },
+      {
+        "term": "Alcohol Wipes",
+        "count": 19
+      },
+      {
+        "term": "Ammonia N 13",
+        "count": 19
+      },
+      {
+        "term": "Antibacterial Hand Wipes",
+        "count": 19
+      },
+      {
+        "term": "Chest Rub",
+        "count": 19
+      },
+      {
+        "term": "Childrens Pain and Fever",
+        "count": 19
+      },
+      {
+        "term": "Cinacalcet",
+        "count": 19
+      },
+      {
+        "term": "Cyproheptadine Hydrochloride",
+        "count": 19
+      },
+      {
+        "term": "DOXEPIN HYDROCHLORIDE",
+        "count": 19
+      },
+      {
+        "term": "Emtricitabine and Tenofovir Disoproxil Fumarate",
+        "count": 19
+      },
+      {
+        "term": "Enoxaparin Sodium",
+        "count": 19
+      },
+      {
+        "term": "Febuxostat",
+        "count": 19
+      },
+      {
+        "term": "Flecainide Acetate",
+        "count": 19
+      },
+      {
+        "term": "Glycerin",
+        "count": 19
+      },
+      {
+        "term": "HYDROCHLOROTHIAZIDE",
+        "count": 19
+      },
+      {
+        "term": "Hyoscyamine Sulfate",
+        "count": 19
+      },
+      {
+        "term": "Linezolid",
+        "count": 19
+      },
+      {
+        "term": "Milk of Magnesia",
+        "count": 19
+      },
+      {
+        "term": "Mineral Oil",
+        "count": 19
+      },
+      {
+        "term": "Nadolol",
+        "count": 19
+      },
+      {
+        "term": "Neomycin and Polymyxin B Sulfates and Hydrocortisone",
+        "count": 19
+      },
+      {
+        "term": "Olmesartan Medoxomil and Hydrochlorothiazide",
+        "count": 19
+      },
+      {
+        "term": "Pravastatin Sodium",
+        "count": 19
+      },
+      {
+        "term": "Quetiapine fumarate",
+        "count": 19
+      },
+      {
+        "term": "Rosuvastatin",
+        "count": 19
+      },
+      {
+        "term": "Testosterone Cypionate",
+        "count": 19
+      },
+      {
+        "term": "Venlafaxine",
+        "count": 19
+      },
+      {
+        "term": "Zoledronic Acid",
+        "count": 19
+      },
+      {
+        "term": "Zolmitriptan",
+        "count": 19
+      },
+      {
+        "term": "fenofibrate",
+        "count": 19
+      },
+      {
+        "term": "fluconazole",
+        "count": 19
+      },
+      {
+        "term": "ALLERGY RELIEF",
+        "count": 18
+      },
+      {
+        "term": "Alcohol Prep Pads",
+        "count": 18
+      },
+      {
+        "term": "All Day Pain Relief",
+        "count": 18
+      },
+      {
+        "term": "Amlodipine Besylate and Benazepril Hydrochloride",
+        "count": 18
+      },
+      {
+        "term": "Antacid",
+        "count": 18
+      },
+      {
+        "term": "Armodafinil",
+        "count": 18
+      },
+      {
+        "term": "Assured Instant",
+        "count": 18
+      },
+      {
+        "term": "Athletes Foot",
+        "count": 18
+      },
+      {
+        "term": "Azacitidine",
+        "count": 18
+      },
+      {
+        "term": "BIO SPECTRA ATTITUDE",
+        "count": 18
+      },
+      {
+        "term": "Benzalkonium Chloride",
+        "count": 18
+      },
+      {
+        "term": "Bisacodyl",
+        "count": 18
+      },
+      {
+        "term": "Buspirone hydrochloride",
+        "count": 18
+      },
+      {
+        "term": "Butalbital, Acetaminophen, and Caffeine",
+        "count": 18
+      },
+      {
+        "term": "Captopril",
+        "count": 18
+      },
+      {
+        "term": "Ceftriaxone",
+        "count": 18
+      },
+      {
+        "term": "Cherry Cough Drops",
+        "count": 18
+      },
+      {
+        "term": "Daily Moisturizing",
+        "count": 18
+      },
+      {
+        "term": "FUROSEMIDE",
+        "count": 18
+      },
+      {
+        "term": "Guaifenesin",
+        "count": 18
+      },
+      {
+        "term": "Ibuprofen PM",
+        "count": 18
+      },
+      {
+        "term": "METOPROLOL SUCCINATE",
+        "count": 18
+      },
+      {
+        "term": "Midazolam",
+        "count": 18
+      },
+      {
+        "term": "Mupirocin",
+        "count": 18
+      },
+      {
+        "term": "Pain Reliever PM Extra Strength",
+        "count": 18
+      },
+      {
+        "term": "Rabeprazole Sodium",
+        "count": 18
+      },
+      {
+        "term": "Salicylic acid",
+        "count": 18
+      },
+      {
+        "term": "honey lemon cough drops",
+        "count": 18
+      },
+      {
+        "term": "AZITHROMYCIN",
+        "count": 17
+      },
+      {
+        "term": "Ampicillin and Sulbactam",
+        "count": 17
+      },
+      {
+        "term": "BENZONATATE",
+        "count": 17
+      },
+      {
+        "term": "Bacitracin Zinc",
+        "count": 17
+      },
+      {
+        "term": "Benzethonium chloride Plus Dyclonine hydrochloride",
+        "count": 17
+      },
+      {
+        "term": "Bupropion Hydrochloride XL",
+        "count": 17
+      },
+      {
+        "term": "Capecitabine",
+        "count": 17
+      },
+      {
+        "term": "Chamomilla",
+        "count": 17
+      },
+      {
+        "term": "Childrens Loratadine Sugar Free",
+        "count": 17
+      },
+      {
+        "term": "Chlorpromazine Hydrochloride",
+        "count": 17
+      },
+      {
+        "term": "Ciclopirox",
+        "count": 17
+      },
+      {
+        "term": "DEXAMETHASONE SODIUM PHOSPHATE",
+        "count": 17
+      },
+      {
+        "term": "Daytime Cold and Flu",
+        "count": 17
+      },
+      {
+        "term": "Diaper Rash",
+        "count": 17
+      },
+      {
+        "term": "Diphenhydramine HCL",
+        "count": 17
+      },
+      {
+        "term": "Doxorubicin Hydrochloride",
+        "count": 17
+      },
+      {
+        "term": "Ephedrine Sulfate",
+        "count": 17
+      },
+      {
+        "term": "Esomeprazole magnesium",
+        "count": 17
+      },
+      {
+        "term": "Extra Strength Pain Relief",
+        "count": 17
+      },
+      {
+        "term": "FENTANYL",
+        "count": 17
+      },
+      {
+        "term": "GLYBURIDE",
+        "count": 17
+      },
+      {
+        "term": "Gentle Laxative",
+        "count": 17
+      },
+      {
+        "term": "Glyburide and Metformin Hydrochloride",
+        "count": 17
+      },
+      {
+        "term": "H.E.B Solutions Sunscreen",
+        "count": 17
+      },
+      {
+        "term": "HYDRALAZINE HYDROCHLORIDE",
+        "count": 17
+      },
+      {
+        "term": "Low Dose Aspirin",
+        "count": 17
+      },
+      {
+        "term": "Nitrofurantoin",
+        "count": 17
+      },
+      {
+        "term": "Phenylephrine Hydrochloride",
+        "count": 17
+      },
+      {
+        "term": "Silicea",
+        "count": 17
+      },
+      {
+        "term": "Sumatriptan Succinate",
+        "count": 17
+      },
+      {
+        "term": "Tamoxifen Citrate",
+        "count": 17
+      },
+      {
+        "term": "Telmisartan",
+        "count": 17
+      },
+      {
+        "term": "Valacyclovir",
+        "count": 17
+      },
+      {
+        "term": "aripiprazole",
+        "count": 17
+      },
+      {
+        "term": "donepezil hydrochloride",
+        "count": 17
+      },
+      {
+        "term": "Arnica montana",
+        "count": 16
+      },
+      {
+        "term": "Arthritis Pain Reliever",
+        "count": 16
+      },
+      {
+        "term": "Buprenorphine and Naloxone",
+        "count": 16
+      },
+      {
+        "term": "Clindamycin",
+        "count": 16
+      },
+      {
+        "term": "Clindamycin Phosphate and Benzoyl Peroxide",
+        "count": 16
+      },
+      {
+        "term": "Clomipramine Hydrochloride",
+        "count": 16
+      },
+      {
+        "term": "Clonidine hydrochloride",
+        "count": 16
+      },
+      {
+        "term": "Clozapine",
+        "count": 16
+      },
+      {
+        "term": "Cough DM",
+        "count": 16
+      },
+      {
+        "term": "DOCUSATE SODIUM",
+        "count": 16
+      },
+      {
+        "term": "Deferasirox",
+        "count": 16
+      },
+      {
+        "term": "Dexmethylphenidate Hydrochloride",
+        "count": 16
+      },
+      {
+        "term": "Dextroamphetamine Saccharate, Amphetamine Aspartate Monohydrate, Dextroamphetamine Sulfate and Amphetamine Sulfate",
+        "count": 16
+      },
+      {
+        "term": "Entacapone",
+        "count": 16
+      },
+      {
+        "term": "Ethyl Alcohol",
+        "count": 16
+      },
+      {
+        "term": "Fulvestrant",
+        "count": 16
+      },
+      {
+        "term": "Hand Sanitizing Wipes",
+        "count": 16
+      },
+      {
+        "term": "Ibuprofen Childrens",
+        "count": 16
+      },
+      {
+        "term": "Ipratropium Bromide",
+        "count": 16
+      },
+      {
+        "term": "KETOROLAC TROMETHAMINE",
+        "count": 16
+      },
+      {
+        "term": "LEVETIRACETAM",
+        "count": 16
+      },
+      {
+        "term": "Magnesium Sulfate",
+        "count": 16
+      },
+      {
+        "term": "PAROXETINE",
+        "count": 16
+      },
+      {
+        "term": "Phosphorus",
+        "count": 16
+      },
+      {
+        "term": "Piroxicam",
+        "count": 16
+      },
+      {
+        "term": "Pulsatilla",
+        "count": 16
+      },
+      {
+        "term": "Senna",
+        "count": 16
+      },
+      {
+        "term": "Senna laxative",
+        "count": 16
+      },
+      {
+        "term": "Stool Softener Extra Strength",
+        "count": 16
+      },
+      {
+        "term": "lansoprazole",
+        "count": 16
+      },
+      {
+        "term": "verapamil hydrochloride",
+        "count": 16
+      },
+      {
+        "term": "ASPIRIN",
+        "count": 15
+      },
+      {
+        "term": "All Day Allergy Relief",
+        "count": 15
+      },
+      {
+        "term": "BANANA BOAT",
+        "count": 15
+      },
+      {
+        "term": "CYPROHEPTADINE HYDROCHLORIDE",
+        "count": 15
+      },
+      {
+        "term": "Chlordiazepoxide Hydrochloride",
+        "count": 15
+      },
+      {
+        "term": "Cough and Cold HBP",
+        "count": 15
+      },
+      {
+        "term": "ESTRADIOL",
+        "count": 15
+      },
+      {
+        "term": "Entecavir",
+        "count": 15
+      },
+      {
+        "term": "Fexofenadine HCL",
+        "count": 15
+      },
+      {
+        "term": "Fludeoxyglucose F 18",
+        "count": 15
+      },
+      {
+        "term": "Hand Sanitizer Wipes",
+        "count": 15
+      },
+      {
+        "term": "Hemorrhoidal",
+        "count": 15
+      },
+      {
+        "term": "Isoniazid",
+        "count": 15
+      },
+      {
+        "term": "Isosorbide Dinitrate",
+        "count": 15
+      },
+      {
+        "term": "Laxative",
+        "count": 15
+      },
+      {
+        "term": "Montelukast",
+        "count": 15
+      },
+      {
+        "term": "NIGHTTIME SLEEP AID",
+        "count": 15
+      },
+      {
+        "term": "Nafcillin",
+        "count": 15
+      },
+      {
+        "term": "Omeprazole Magnesium",
+        "count": 15
+      },
+      {
+        "term": "Prednisolone Sodium Phosphate",
+        "count": 15
+      },
+      {
+        "term": "Regular Strength Pain Relief",
+        "count": 15
+      },
+      {
+        "term": "SPIRONOLACTONE",
+        "count": 15
+      },
+      {
+        "term": "Sertraline",
+        "count": 15
+      },
+      {
+        "term": "Sleep Aid Maximum Strength",
+        "count": 15
+      },
+      {
+        "term": "Stay Awake",
+        "count": 15
+      },
+      {
+        "term": "Terbinafine",
+        "count": 15
+      },
+      {
+        "term": "Zonisamide",
+        "count": 15
+      },
+      {
+        "term": "isosorbide mononitrate",
+        "count": 15
+      },
+      {
+        "term": "olmesartan medoxomil",
+        "count": 15
+      },
+      {
+        "term": "tizanidine",
+        "count": 15
+      },
+      {
+        "term": "ALBUTEROL SULFATE",
+        "count": 14
+      },
+      {
+        "term": "Alcohol-Free Anticavity",
+        "count": 14
+      },
+      {
+        "term": "BENZTROPINE MESYLATE",
+        "count": 14
+      },
+      {
+        "term": "Borax",
+        "count": 14
+      },
+      {
+        "term": "Burkhart",
+        "count": 14
+      },
+      {
+        "term": "Calcarea phosphorica",
+        "count": 14
+      },
+      {
+        "term": "Calcium Chloride",
+        "count": 14
+      },
+      {
+        "term": "Causticum",
+        "count": 14
+      },
+      {
+        "term": "Cefuroxime axetil",
+        "count": 14
+      },
+      {
+        "term": "DIPHENHYDRAMINE HYDROCHLORIDE",
+        "count": 14
+      },
+      {
+        "term": "EPINEPHRINE",
+        "count": 14
+      },
+      {
+        "term": "FAMOTIDINE",
+        "count": 14
+      },
+      {
+        "term": "FOLIC ACID",
+        "count": 14
+      },
+      {
+        "term": "Farewell Collection",
+        "count": 14
+      },
+      {
+        "term": "Felbamate",
+        "count": 14
+      },
+      {
+        "term": "Foaming Hand Sanitizer",
+        "count": 14
+      },
+      {
+        "term": "GEMFIBROZIL",
+        "count": 14
+      },
+      {
+        "term": "INSTANT HAND SANITIZER",
+        "count": 14
+      },
+      {
+        "term": "LOW DOSE ASPIRIN",
+        "count": 14
+      },
+      {
+        "term": "Metolazone",
+        "count": 14
+      },
+      {
+        "term": "Midazolam Hydrochloride",
+        "count": 14
+      },
+      {
+        "term": "Nasal Decongestant",
+        "count": 14
+      },
+      {
+        "term": "OXYCODONE AND ACETAMINOPHEN",
+        "count": 14
+      },
+      {
+        "term": "Oil Free Acne Wash",
+        "count": 14
+      },
+      {
+        "term": "PROCHLORPERAZINE MALEATE",
+        "count": 14
+      },
+      {
+        "term": "Pain Reliever",
+        "count": 14
+      },
+      {
+        "term": "Pioglitazone Hydrochloride",
+        "count": 14
+      },
+      {
+        "term": "Potassium Citrate",
+        "count": 14
+      },
+      {
+        "term": "Ranolazine",
+        "count": 14
+      },
+      {
+        "term": "STOOL SOFTENER",
+        "count": 14
+      },
+      {
+        "term": "Sevelamer Carbonate",
+        "count": 14
+      },
+      {
+        "term": "Stay Ageless Tinted Mineral Sunscreen Broad Spectrum SPF 30",
+        "count": 14
+      },
+      {
+        "term": "Timolol Maleate",
+        "count": 14
+      },
+      {
+        "term": "Tolnafate",
+        "count": 14
+      },
+      {
+        "term": "Torsemide",
+        "count": 14
+      },
+      {
+        "term": "Undecylenic Acid",
+        "count": 14
+      },
+      {
+        "term": "escitalopram oxalate",
+        "count": 14
+      },
+      {
+        "term": "nasal",
+        "count": 14
+      },
+      {
+        "term": "ATROPINE SULFATE",
+        "count": 13
+      },
+      {
+        "term": "Abacavir",
+        "count": 13
+      },
+      {
+        "term": "Aconitum napellus",
+        "count": 13
+      },
+      {
+        "term": "Advanced Healing",
+        "count": 13
+      },
+      {
+        "term": "Alendronate Sodium",
+        "count": 13
+      },
+      {
+        "term": "Antiseptic Hand Rub",
+        "count": 13
+      },
+      {
+        "term": "Apis mellifica",
+        "count": 13
+      },
+      {
+        "term": "Arsenicum album",
+        "count": 13
+      },
+      {
+        "term": "Australian Gold Broad Spectrum SPF 30",
+        "count": 13
+      },
+      {
+        "term": "BACLOFEN",
+        "count": 13
+      },
+      {
+        "term": "Bethanechol Chloride",
+        "count": 13
+      },
+      {
+        "term": "Bryonia",
+        "count": 13
+      },
+      {
+        "term": "Butalbital, Acetaminophen and Caffeine",
+        "count": 13
+      },
+      {
+        "term": "CARBIDOPA AND LEVODOPA",
+        "count": 13
+      },
+      {
+        "term": "Calcarea fluorica",
+        "count": 13
+      },
+      {
+        "term": "Cetirizine Hydrochloride (Allergy)",
+        "count": 13
+      },
+      {
+        "term": "Ciclopirox Olamine",
+        "count": 13
+      },
+      {
+        "term": "Cimetidine",
+        "count": 13
+      },
+      {
+        "term": "Cuprum metallicum",
+        "count": 13
+      },
+      {
+        "term": "Everyday Clean Dandruff",
+        "count": 13
+      },
+      {
+        "term": "Extended Phenytoin Sodium",
+        "count": 13
+      },
+      {
+        "term": "Ferrum phosphoricum",
+        "count": 13
+      },
+      {
+        "term": "First Aid Antiseptic",
+        "count": 13
+      },
+      {
+        "term": "HYDROCODONE BITARTRATE AND ACETAMINOPHEN",
+        "count": 13
+      },
+      {
+        "term": "Helium",
+        "count": 13
+      },
+      {
+        "term": "Hydrocortisone Maximum Strength",
+        "count": 13
+      },
+      {
+        "term": "Hydrogen Peroxide 3 Percent",
+        "count": 13
+      },
+      {
+        "term": "LIDOCAINE HYDROCHLORIDE",
+        "count": 13
+      },
+      {
+        "term": "Loratadine Allergy Relief",
+        "count": 13
+      },
+      {
+        "term": "OXCARBAZEPINE",
+        "count": 13
+      },
+      {
+        "term": "Paricalcitol",
+        "count": 13
+      },
+      {
+        "term": "Pseudoephedrine Hydrochloride",
+        "count": 13
+      },
+      {
+        "term": "Ramelteon",
+        "count": 13
+      },
+      {
+        "term": "SUNSHINE SKIN TINT BROAD SPECTRUM SPF 30 - REFILL",
+        "count": 13
+      },
+      {
+        "term": "Sodium Fluoride F 18",
+        "count": 13
+      },
+      {
+        "term": "Staphysagria",
+        "count": 13
+      },
+      {
+        "term": "Supersmile",
+        "count": 13
+      },
+      {
+        "term": "Xylocaine",
+        "count": 13
+      },
+      {
+        "term": "cherry cough drops",
+        "count": 13
+      },
+      {
+        "term": "esomeprazole magnesium",
+        "count": 13
+      },
+      {
+        "term": "sunscreen",
+        "count": 13
+      },
+      {
+        "term": "2 in 1 Dandruff",
+        "count": 12
+      },
+      {
+        "term": "Acetylcysteine",
+        "count": 12
+      },
+      {
+        "term": "Alumina",
+        "count": 12
+      },
+      {
+        "term": "Amlodipine besylate",
+        "count": 12
+      },
+      {
+        "term": "Antibacterial Hand Wash",
+        "count": 12
+      },
+      {
+        "term": "Argatroban",
+        "count": 12
+      },
+      {
+        "term": "Aspirin 81 mg",
+        "count": 12
+      },
+      {
+        "term": "Aspirin Regular Strength",
+        "count": 12
+      },
+      {
+        "term": "Australian Gold Broad Spectrum SPF 15",
+        "count": 12
+      },
+      {
+        "term": "Banophen",
+        "count": 12
+      },
+      {
+        "term": "Berberis vulgaris",
+        "count": 12
+      },
+      {
+        "term": "Calcarea carbonica",
+        "count": 12
+      },
+      {
+        "term": "Cantharis",
+        "count": 12
+      },
+      {
+        "term": "Carbo vegetabilis",
+        "count": 12
+      },
+      {
+        "term": "Chelidonium majus",
+        "count": 12
+      },
+      {
+        "term": "Cholestyramine",
+        "count": 12
+      },
+      {
+        "term": "Cinchona officinalis",
+        "count": 12
+      },
+      {
+        "term": "Cocculus indicus",
+        "count": 12
+      },
+      {
+        "term": "Cold and Flu Nighttime",
+        "count": 12
+      },
+      {
+        "term": "Cyclobenzaprine hydrochloride",
+        "count": 12
+      },
+      {
+        "term": "Diphenhydramine HCl",
+        "count": 12
+      },
+      {
+        "term": "Dry Scalp Care",
+        "count": 12
+      },
+      {
+        "term": "Efavirenz",
+        "count": 12
+      },
+      {
+        "term": "Exemestane",
+        "count": 12
+      },
+      {
+        "term": "Famciclovir",
+        "count": 12
+      },
+      {
+        "term": "Flumazenil",
+        "count": 12
+      },
+      {
+        "term": "Fluocinolone Acetonide",
+        "count": 12
+      },
+      {
+        "term": "Gelato APF",
+        "count": 12
+      },
+      {
+        "term": "Guaifenesin and Dextromethorphan HBr",
+        "count": 12
+      },
+      {
+        "term": "Headache Relief",
+        "count": 12
+      },
+      {
+        "term": "Honey Lemon Cough Drop",
+        "count": 12
+      },
+      {
+        "term": "Imipramine Hydrochloride",
+        "count": 12
+      },
+      {
+        "term": "Ipratropium Bromide and Albuterol Sulfate",
+        "count": 12
+      },
+      {
+        "term": "Kids Relief",
+        "count": 12
+      },
+      {
+        "term": "LAMOTRIGINE",
+        "count": 12
+      },
+      {
+        "term": "LIDOCAINE",
+        "count": 12
+      },
+      {
+        "term": "LORATADINE",
+        "count": 12
+      },
+      {
+        "term": "LOSARTAN POTASSIUM",
+        "count": 12
+      },
+      {
+        "term": "Lamivudine",
+        "count": 12
+      },
+      {
+        "term": "Leucovorin Calcium",
+        "count": 12
+      },
+      {
+        "term": "Menthol Cough Drops",
+        "count": 12
+      },
+      {
+        "term": "Morphine sulfate",
+        "count": 12
+      },
+      {
+        "term": "Mucus Relief DM Maximum Strength",
+        "count": 12
+      },
+      {
+        "term": "NITROUS OXIDE",
+        "count": 12
+      },
+      {
+        "term": "Nighttime Cold and Flu",
+        "count": 12
+      },
+      {
+        "term": "Olmesartan Medoxomil",
+        "count": 12
+      },
+      {
+        "term": "Olopatadine Hydrochloride Ophthalmic Solution",
+        "count": 12
+      },
+      {
+        "term": "Orphenadrine Citrate",
+        "count": 12
+      },
+      {
+        "term": "Phenytoin",
+        "count": 12
+      },
+      {
+        "term": "Pyridostigmine Bromide",
+        "count": 12
+      },
+      {
+        "term": "Selenium Sulfide",
+        "count": 12
+      },
+      {
+        "term": "Sepia",
+        "count": 12
+      },
+      {
+        "term": "Stomach Relief Ultra",
+        "count": 12
+      },
+      {
+        "term": "Valacyclovir hydrochloride",
+        "count": 12
+      },
+      {
+        "term": "Voriconazole",
+        "count": 12
+      },
+      {
+        "term": "aspirin",
+        "count": 12
+      },
+      {
+        "term": "montelukast sodium",
+        "count": 12
+      },
+      {
+        "term": "ropinirole",
+        "count": 12
+      },
+      {
+        "term": "ALCOHOL WIPES",
+        "count": 11
+      },
+      {
+        "term": "ALPRAZOLAM",
+        "count": 11
+      },
+      {
+        "term": "ARIPIPRAZOLE",
+        "count": 11
+      },
+      {
+        "term": "Abiraterone Acetate",
+        "count": 11
+      },
+      {
+        "term": "Acetaminophen PM Extra Strength",
+        "count": 11
+      },
+      {
+        "term": "Acne Scrub",
+        "count": 11
+      },
+      {
+        "term": "Albendazole",
+        "count": 11
+      },
+      {
+        "term": "Antifungal",
+        "count": 11
+      },
+      {
+        "term": "Antimonium crudum",
+        "count": 11
+      },
+      {
+        "term": "Antimonium tartaricum",
+        "count": 11
+      },
+      {
+        "term": "Argentum nitricum",
+        "count": 11
+      },
+      {
+        "term": "Atovaquone",
+        "count": 11
+      },
+      {
+        "term": "Aurum metallicum",
+        "count": 11
+      },
+      {
+        "term": "BreathRx with Zytex",
+        "count": 11
+      },
+      {
+        "term": "Bupropion hydrochloride (XL)",
+        "count": 11
+      },
+      {
+        "term": "Busulfan",
+        "count": 11
+      },
+      {
+        "term": "CHLORTHALIDONE",
+        "count": 11
+      },
+      {
+        "term": "CPDA-1",
+        "count": 11
+      },
+      {
+        "term": "Candida albicans",
+        "count": 11
+      },
+      {
+        "term": "Cefepime",
+        "count": 11
+      },
+      {
+        "term": "Cefprozil",
+        "count": 11
+      },
+      {
+        "term": "Childrens Acetaminophen",
+        "count": 11
+      },
+      {
+        "term": "Childrens Pain Relief",
+        "count": 11
+      },
+      {
+        "term": "Cisatracurium Besylate",
+        "count": 11
+      },
+      {
+        "term": "Coffea cruda",
+        "count": 11
+      },
+      {
+        "term": "Cold Sore Fever Blister Treatment",
+        "count": 11
+      },
+      {
+        "term": "Colocynthis",
+        "count": 11
+      },
+      {
+        "term": "Cyanocobalamin",
+        "count": 11
+      },
+      {
+        "term": "Cyclophosphamide",
+        "count": 11
+      },
+      {
+        "term": "Cytarabine",
+        "count": 11
+      },
+      {
+        "term": "DOXYCYCLINE",
+        "count": 11
+      },
+      {
+        "term": "Dapsone",
+        "count": 11
+      },
+      {
+        "term": "Dexmedetomidine Hydrochloride",
+        "count": 11
+      },
+      {
+        "term": "Diphenhydramine HCl and Zinc Acetate",
+        "count": 11
+      },
+      {
+        "term": "Droxidopa",
+        "count": 11
+      },
+      {
+        "term": "Dulcamara",
+        "count": 11
+      },
+      {
+        "term": "Econazole Nitrate",
+        "count": 11
+      },
+      {
+        "term": "Eptifibatide",
+        "count": 11
+      },
+      {
+        "term": "Ethyl Rubbing Alcohol",
+        "count": 11
+      },
+      {
+        "term": "Eye Itch Relief",
+        "count": 11
+      },
+      {
+        "term": "Ezetimibe and Simvastatin",
+        "count": 11
+      },
+      {
+        "term": "Fexofenadine HCl and Pseudoephedrine HCI",
+        "count": 11
+      },
+      {
+        "term": "Fexofenadine Hydrochloride and Pseudoephedrine Hydrochloride",
+        "count": 11
+      },
+      {
+        "term": "Flucytosine",
+        "count": 11
+      },
+      {
+        "term": "Fludeoxyglucose F18",
+        "count": 11
+      },
+      {
+        "term": "Fluoxetine Hydrochloride",
+        "count": 11
+      },
+      {
+        "term": "Halobetasol Propionate",
+        "count": 11
+      },
+      {
+        "term": "Hypericum perforatum",
+        "count": 11
+      },
+      {
+        "term": "INFLUENZINUM",
+        "count": 11
+      },
+      {
+        "term": "Imatinib Mesylate",
+        "count": 11
+      },
+      {
+        "term": "Itch Relief",
+        "count": 11
+      },
+      {
+        "term": "Ketotifen Fumarate",
+        "count": 11
+      },
+      {
+        "term": "Lachesis mutus",
+        "count": 11
+      },
+      {
+        "term": "Lycopodium clavatum",
+        "count": 11
+      },
+      {
+        "term": "MELOXICAM",
+        "count": 11
+      },
+      {
+        "term": "METHYLPHENIDATE HYDROCHLORIDE",
+        "count": 11
+      },
+      {
+        "term": "Misoprostol",
+        "count": 11
+      },
+      {
+        "term": "Mucinex",
+        "count": 11
+      },
+      {
+        "term": "Nebivolol",
+        "count": 11
+      },
+      {
+        "term": "Neomycin and Polymyxin B Sulfates and Dexamethasone",
+        "count": 11
+      },
+      {
+        "term": "Nicotine Mini",
+        "count": 11
+      },
+      {
+        "term": "Pain and Fever Childrens",
+        "count": 11
+      },
+      {
+        "term": "Phendimetrazine Tartrate",
+        "count": 11
+      },
+      {
+        "term": "Quinapril",
+        "count": 11
+      },
+      {
+        "term": "Rifampin",
+        "count": 11
+      },
+      {
+        "term": "SUNSHINE SKIN TINT BROAD SPECTRUM SPF 30 Sunscreen",
+        "count": 11
+      },
+      {
+        "term": "Salsalate",
+        "count": 11
+      },
+      {
+        "term": "Sulfasalazine",
+        "count": 11
+      },
+      {
+        "term": "TOPIRAMATE",
+        "count": 11
+      },
+      {
+        "term": "Trihexyphenidyl Hydrochloride",
+        "count": 11
+      },
+      {
+        "term": "VENLAFAXINE HYDROCHLORIDE",
+        "count": 11
+      },
+      {
+        "term": "Wet Wipes",
+        "count": 11
+      },
+      {
+        "term": "Womens Laxative",
+        "count": 11
+      },
+      {
+        "term": "anti-bacterial hand gel",
+        "count": 11
+      },
+      {
+        "term": "hand sanitizer",
+        "count": 11
+      },
+      {
+        "term": "hydrocortisone",
+        "count": 11
+      },
+      {
+        "term": "menthol cough drops",
+        "count": 11
+      },
+      {
+        "term": "naproxen sodium",
+        "count": 11
+      },
+      {
+        "term": "spironolactone",
+        "count": 11
+      },
+      {
+        "term": "voriconazole",
+        "count": 11
+      },
+      {
+        "term": "75% Alcohol Instant hand sanitizer gel",
+        "count": 10
+      },
+      {
+        "term": "AMPICILLIN",
+        "count": 10
+      },
+      {
+        "term": "Acarbose",
+        "count": 10
+      },
+      {
+        "term": "Acne Treatment",
+        "count": 10
+      },
+      {
+        "term": "Albuterol",
+        "count": 10
+      },
+      {
+        "term": "Alcohol Prep",
+        "count": 10
+      },
+      {
+        "term": "Alcohol Wipe",
+        "count": 10
+      },
+      {
+        "term": "Allium cepa",
+        "count": 10
+      },
+      {
+        "term": "Aminocaproic Acid",
+        "count": 10
+      },
+      {
+        "term": "Amphetamine Sulfate",
+        "count": 10
+      },
+      {
+        "term": "Anti-Bacterial Hand Gel",
+        "count": 10
+      },
+      {
+        "term": "Anticavity Rinse",
+        "count": 10
+      },
+      {
+        "term": "Artificial Tears",
+        "count": 10
+      },
+      {
+        "term": "Aspirin Low Dose Safety Coated",
+        "count": 10
+      },
+      {
+        "term": "Atomoxetine",
+        "count": 10
+      },
+      {
+        "term": "Baryta carbonica",
+        "count": 10
+      },
+      {
+        "term": "Bicalutamide",
+        "count": 10
+      },
+      {
+        "term": "Bisoprolol Fumarate and Hydrochlorothiazide",
+        "count": 10
+      },
+      {
+        "term": "Brompheniramine Maleate, Pseudoephedrine Hydrochloride, and Dextromethorphan Hydrobromide",
+        "count": 10
+      },
+      {
+        "term": "Burkhart Topical Anesthetic",
+        "count": 10
+      },
+      {
+        "term": "Butalbital, Acetaminophen, Caffeine",
+        "count": 10
+      },
+      {
+        "term": "CARVEDILOL",
+        "count": 10
+      },
+      {
+        "term": "CHILDRENS IBUPROFEN",
+        "count": 10
+      },
+      {
+        "term": "CIPROFLOXACIN",
+        "count": 10
+      },
+      {
+        "term": "CLOZAPINE",
+        "count": 10
+      },
+      {
+        "term": "CVS",
+        "count": 10
+      },
+      {
+        "term": "Calcarea sulphurica",
+        "count": 10
+      },
+      {
+        "term": "Calcipotriene",
+        "count": 10
+      },
+      {
+        "term": "Cefoxitin",
+        "count": 10
+      },
+      {
+        "term": "Cetirizine",
+        "count": 10
+      },
+      {
+        "term": "Cherry Cough Drop",
+        "count": 10
+      },
+      {
+        "term": "Chlordiazepoxide Hydrochloride and Clidinium Bromide",
+        "count": 10
+      },
+      {
+        "term": "Cilostazol",
+        "count": 10
+      },
+      {
+        "term": "Claritin",
+        "count": 10
+      },
+      {
+        "term": "Conium maculatum",
+        "count": 10
+      },
+      {
+        "term": "DONEPEZIL HYDROCHLORIDE",
+        "count": 10
+      },
+      {
+        "term": "Daytime Nighttime Cold and Flu",
+        "count": 10
+      },
+      {
+        "term": "Daytime Nighttime Cold and Flu Relief Multi-Symptom",
+        "count": 10
+      },
+      {
+        "term": "Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate and Amphetamine Sulfate",
+        "count": 10
+      },
+      {
+        "term": "Diclofenac Sodium and Misoprostol",
+        "count": 10
+      },
+      {
+        "term": "Dipyridamole",
+        "count": 10
+      },
+      {
+        "term": "Dofetilide",
+        "count": 10
+      },
+      {
+        "term": "Doxercalciferol",
+        "count": 10
+      },
+      {
+        "term": "Drosera",
+        "count": 10
+      },
+      {
+        "term": "Ear Care",
+        "count": 10
+      },
+      {
+        "term": "Esmolol Hydrochloride",
+        "count": 10
+      },
+      {
+        "term": "Etomidate",
+        "count": 10
+      },
+      {
+        "term": "Extra Strength Acetaminophen",
+        "count": 10
+      },
+      {
+        "term": "Fleet",
+        "count": 10
+      },
+      {
+        "term": "Fludrocortisone Acetate",
+        "count": 10
+      },
+      {
+        "term": "Gelato Topical Anesthetic",
+        "count": 10
+      },
+      {
+        "term": "Gelsemium sempervirens",
+        "count": 10
+      },
+      {
+        "term": "Gemcitabine",
+        "count": 10
+      },
+      {
+        "term": "Graphites",
+        "count": 10
+      },
+      {
+        "term": "Guanfacine",
+        "count": 10
+      },
+      {
+        "term": "Ignatia amara",
+        "count": 10
+      },
+      {
+        "term": "Isopropyl alcohol 70 percent",
+        "count": 10
+      },
+      {
+        "term": "Itraconazole",
+        "count": 10
+      },
+      {
+        "term": "Liothyronine Sodium",
+        "count": 10
+      },
+      {
+        "term": "Loratadine and Pseudoephedrine Sulfate",
+        "count": 10
+      },
+      {
+        "term": "Minoxidil",
+        "count": 10
+      },
+      {
+        "term": "Moxifloxacin Hydrochloride",
+        "count": 10
+      },
+      {
+        "term": "Night Time Cold and Flu Relief Multi Symptom",
+        "count": 10
+      },
+      {
+        "term": "Nitrofurantoin Monohydrate/ Macrocrystalline",
+        "count": 10
+      },
+      {
+        "term": "Nitroglycerin",
+        "count": 10
+      },
+      {
+        "term": "Pain Relief PM",
+        "count": 10
+      },
+      {
+        "term": "Pain Relief PM Extra Strength",
+        "count": 10
+      },
+      {
+        "term": "Phytonadione",
+        "count": 10
+      },
+      {
+        "term": "RE-fresh Scalp Care",
+        "count": 10
+      },
+      {
+        "term": "Rocuronium Bromide",
+        "count": 10
+      },
+      {
+        "term": "SENNA",
+        "count": 10
+      },
+      {
+        "term": "Sanitizing Wipes",
+        "count": 10
+      },
+      {
+        "term": "Sildenafil Citrate",
+        "count": 10
+      },
+      {
+        "term": "Sore Throat Cherry",
+        "count": 10
+      },
+      {
+        "term": "Stomach Relief Maximum Strength",
+        "count": 10
+      },
+      {
+        "term": "Stramonium",
+        "count": 10
+      },
+      {
+        "term": "Symphytum officinale",
+        "count": 10
+      },
+      {
+        "term": "Terbutaline Sulfate",
+        "count": 10
+      },
+      {
+        "term": "Valganciclovir",
+        "count": 10
+      },
+      {
+        "term": "azithromycin monohydrate",
+        "count": 10
+      },
+      {
+        "term": "hair regrowth treatment",
+        "count": 10
+      },
+      {
+        "term": "ALENDRONATE SODIUM",
+        "count": 9
+      },
+      {
+        "term": "Albuterol Sulfate HFA",
+        "count": 9
+      },
+      {
+        "term": "Allergy Relief Dye Free",
+        "count": 9
+      },
+      {
+        "term": "Allergy Relief Dye-Free",
+        "count": 9
+      },
+      {
+        "term": "Allergy Relief Non drowsy",
+        "count": 9
+      },
+      {
+        "term": "Amlodipine and Olmesartan Medoxomil",
+        "count": 9
+      },
+      {
+        "term": "Ammonium Lactate",
+        "count": 9
+      },
+      {
+        "term": "Arnica Montana",
+        "count": 9
+      },
+      {
+        "term": "Arnica Plus",
+        "count": 9
+      },
+      {
+        "term": "Atenolol and Chlorthalidone",
+        "count": 9
+      },
+      {
+        "term": "Atomoxetine Hydrochloride",
+        "count": 9
+      },
+      {
+        "term": "Australian Gold Broad Spectrum SPF 50",
+        "count": 9
+      },
+      {
+        "term": "Avant",
+        "count": 9
+      },
+      {
+        "term": "Azathioprine",
+        "count": 9
+      },
+      {
+        "term": "BencoCaine Topical Anesthetic",
+        "count": 9
+      },
+      {
+        "term": "Bivalirudin",
+        "count": 9
+      },
+      {
+        "term": "Bleomycin",
+        "count": 9
+      },
+      {
+        "term": "Brimonidine Tartrate",
+        "count": 9
+      },
+      {
+        "term": "CCC Clean Corrective with Vitamin C Tinted Moisturizer Broad Spectrum SPF 30",
+        "count": 9
+      },
+      {
+        "term": "CEFTRIAXONE",
+        "count": 9
+      },
+      {
+        "term": "CHANTIX",
+        "count": 9
+      },
+      {
+        "term": "CLOMIPRAMINE HYDROCHLORIDE",
+        "count": 9
+      },
+      {
+        "term": "Carbidopa",
+        "count": 9
+      },
+      {
+        "term": "Carbidopa and levodopa",
+        "count": 9
+      },
+      {
+        "term": "Cefuroxime Axetil",
+        "count": 9
+      },
+      {
+        "term": "Childrens TYLENOL",
+        "count": 9
+      },
+      {
+        "term": "Cina",
+        "count": 9
+      },
+      {
+        "term": "Clopidogrel bisulfate",
+        "count": 9
+      },
+      {
+        "term": "Colchicum autumnale",
+        "count": 9
+      },
+      {
+        "term": "Cough Relief",
+        "count": 9
+      },
+      {
+        "term": "Cromolyn Sodium",
+        "count": 9
+      },
+      {
+        "term": "Cyclosporine",
+        "count": 9
+      },
+      {
+        "term": "DOK",
+        "count": 9
+      },
+      {
+        "term": "Defend",
+        "count": 9
+      },
+      {
+        "term": "Dental City Topical Anesthetic",
+        "count": 9
+      },
+      {
+        "term": "Depo-Medrol",
+        "count": 9
+      },
+      {
+        "term": "Dexmedetomidine",
+        "count": 9
+      },
+      {
+        "term": "Diarrhea",
+        "count": 9
+      },
+      {
+        "term": "Dicloxacillin Sodium",
+        "count": 9
+      },
+      {
+        "term": "Dicyclomine hydrochloride",
+        "count": 9
+      },
+      {
+        "term": "ESOMEPRAZOLE MAGNESIUM",
+        "count": 9
+      },
+      {
+        "term": "EXTRA STRENGTH ACETAMINOPHEN",
+        "count": 9
+      },
+      {
+        "term": "Echinacea angustifolia",
+        "count": 9
+      },
+      {
+        "term": "Erlotinib",
+        "count": 9
+      },
+      {
+        "term": "Escitalopram Oxalate",
+        "count": 9
+      },
+      {
+        "term": "Euphrasia officinalis",
+        "count": 9
+      },
+      {
+        "term": "Everolimus",
+        "count": 9
+      },
+      {
+        "term": "Family Wellness",
+        "count": 9
+      },
+      {
+        "term": "Find Your Happy Place",
+        "count": 9
+      },
+      {
+        "term": "Fosinopril Sodium",
+        "count": 9
+      },
+      {
+        "term": "GUAIFENESIN",
+        "count": 9
+      },
+      {
+        "term": "Glonoinum",
+        "count": 9
+      },
+      {
+        "term": "Good Sense Nicotine",
+        "count": 9
+      },
+      {
+        "term": "HAND SANITIZER 70 PERCENT",
+        "count": 9
+      },
+      {
+        "term": "Hyalolex Hand Sanitizer",
+        "count": 9
+      },
+      {
+        "term": "Hydrocodone Bitartrate and Homatropine Methylbromide",
+        "count": 9
+      },
+      {
+        "term": "Hyoscyamus niger",
+        "count": 9
+      },
+      {
+        "term": "Isopropyl Rubbing Alcohol",
+        "count": 9
+      },
+      {
+        "term": "JANUVIA",
+        "count": 9
+      },
+      {
+        "term": "Kali muriaticum",
+        "count": 9
+      },
+      {
+        "term": "LOSARTAN POTASSIUM AND HYDROCHLOROTHIAZIDE",
+        "count": 9
+      },
+      {
+        "term": "Labetalol HCL",
+        "count": 9
+      },
+      {
+        "term": "Laxative Maximum Strength",
+        "count": 9
+      },
+      {
+        "term": "Lyrica",
+        "count": 9
+      },
+      {
+        "term": "MECLIZINE",
+        "count": 9
+      },
+      {
+        "term": "Medicated Apricot Scrub",
+        "count": 9
+      },
+      {
+        "term": "Moxifloxacin",
+        "count": 9
+      },
+      {
+        "term": "Mucus Relief Severe Congestion and Cough Maximum Strength",
+        "count": 9
+      },
+      {
+        "term": "Mycophenolic Acid",
+        "count": 9
+      },
+      {
+        "term": "NALOXONE HYDROCHLORIDE",
+        "count": 9
+      },
+      {
+        "term": "NAPROXEN SODIUM",
+        "count": 9
+      },
+      {
+        "term": "NYSTATIN",
+        "count": 9
+      },
+      {
+        "term": "Nitricum acidum",
+        "count": 9
+      },
+      {
+        "term": "Norgestimate and Ethinyl Estradiol",
+        "count": 9
+      },
+      {
+        "term": "Nux vomica",
+        "count": 9
+      },
+      {
+        "term": "Olopatadine Hydrochloride",
+        "count": 9
+      },
+      {
+        "term": "Omega-3-acid ethyl esters",
+        "count": 9
+      },
+      {
+        "term": "Oseltamivir phosphate",
+        "count": 9
+      },
+      {
+        "term": "Paclitaxel",
+        "count": 9
+      },
+      {
+        "term": "Pain Release",
+        "count": 9
+      },
+      {
+        "term": "Pepto-Bismol",
+        "count": 9
+      },
+      {
+        "term": "Permethrin",
+        "count": 9
+      },
+      {
+        "term": "Povidone Iodine",
+        "count": 9
+      },
+      {
+        "term": "Primo APF",
+        "count": 9
+      },
+      {
+        "term": "SIMVASTATIN",
+        "count": 9
+      },
+      {
+        "term": "SODIUM BICARBONATE",
+        "count": 9
+      },
+      {
+        "term": "SODIUM CHLORIDE",
+        "count": 9
+      },
+      {
+        "term": "SUNSCREEN",
+        "count": 9
+      },
+      {
+        "term": "Senna Laxative",
+        "count": 9
+      },
+      {
+        "term": "Sleep Aid NightTime",
+        "count": 9
+      },
+      {
+        "term": "Sulphur",
+        "count": 9
+      },
+      {
+        "term": "Tolterodine Tartrate",
+        "count": 9
+      },
+      {
+        "term": "Zinc Oxide",
+        "count": 9
+      },
+      {
+        "term": "acetaminophen",
+        "count": 9
+      },
+      {
+        "term": "anti diarrheal",
+        "count": 9
+      }
+    ]
+  }
